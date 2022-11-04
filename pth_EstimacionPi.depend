@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508431578 source:d:\educatec-cip\pth_estimacionpi\main.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+
